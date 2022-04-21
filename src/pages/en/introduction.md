@@ -8,7 +8,7 @@ layout: ../../layouts/MainLayout.astro
 
 This site provides an overview of what we do, who we are, and why we invest.
 
-- Section 1: [What is Web3?]()
+- Section 1: [What is Web3?]('https://docs.catalyzed.capital/en/page-1/')
 - Section 2: The Future of Global Capital Markets
 - Section 3: What is Catalyzed Capital?
 - Section 4: Catalyzed Return Fund Terms & Details
