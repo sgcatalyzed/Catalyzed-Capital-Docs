@@ -1,5 +1,5 @@
 export const SITE = {
-  title: 'Catalyzed Capital',
+  title: '',
   description: 'Your website description.',
   defaultLanguage: 'en_US',
 };
@@ -8,8 +8,7 @@ export const OPEN_GRAPH = {
   image: {
     src: 'https://github.com/withastro/astro/blob/main/assets/social/banner.jpg?raw=true',
     alt:
-      'astro logo on a starry expanse of space,' +
-      ' with a purple saturn-like planet floating in the right foreground',
+      'Catalyzed Capital Logo',
   },
 };
 
@@ -46,6 +45,6 @@ export const SIDEBAR = {
     { text: 'Section 4: Catalzyed Return Fund Terms ', link: 'en/page-4' },
 
     { text: 'Additional Resources', header: true },
-    { text: 'More Resources', link: 'en/page-5' },
+    { text: 'Section 5: Recommended Material', link: 'en/page-5' },
   ],
 };
