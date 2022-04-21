@@ -4,11 +4,11 @@ description: Intro to Catalyzed Capital
 layout: ../../layouts/MainLayout.astro
 ---
 
-**Welcome to Catalyzed Capital**
+**Welcome to Catalyzed Capital: A Web3 Fund for the Real World**
 
 This site provides an overview of what we do, who we are, and why we invest.
 
-- Section 1: [What is Web3?]('https://docs.catalyzed.capital/en/page-1/')
+- Section 1: What is Web3?
 - Section 2: The Future of Global Capital Markets
 - Section 3: What is Catalyzed Capital?
 - Section 4: Catalyzed Return Fund Terms & Details
@@ -20,6 +20,6 @@ Clicking the menu at the top of our website opens up the table of contents so yo
 
 Have any questions or would like to learn more?
 
-Email us anytime at invest@catalyzed.capital
+Email us at invest@catalyzed.capital
 
 -Matt & Sid
