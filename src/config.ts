@@ -1,21 +1,20 @@
 export const SITE = {
-	title: 'Your Documentation Website',
-	description: 'Your website description.',
-	defaultLanguage: 'en_US',
+  title: 'Catalyzed Capital',
+  description: 'Your website description.',
+  defaultLanguage: 'en_US',
 };
 
 export const OPEN_GRAPH = {
-	image: {
-		src: 'https://github.com/withastro/astro/blob/main/assets/social/banner.jpg?raw=true',
-		alt:
-			'astro logo on a starry expanse of space,' +
-			' with a purple saturn-like planet floating in the right foreground',
-	},
-	twitter: 'astrodotbuild',
+  image: {
+    src: 'https://github.com/withastro/astro/blob/main/assets/social/banner.jpg?raw=true',
+    alt:
+      'astro logo on a starry expanse of space,' +
+      ' with a purple saturn-like planet floating in the right foreground',
+  },
 };
 
 export const KNOWN_LANGUAGES = {
-	English: 'en',
+  English: 'en',
 };
 
 // Uncomment this to add an "Edit this page" button to every page of documentation.
@@ -33,14 +32,20 @@ export const KNOWN_LANGUAGES = {
 // }
 
 export const SIDEBAR = {
-	en: [
-		{ text: '', header: true },
-		{ text: 'Section Header', header: true },
-		{ text: 'Introduction', link: 'en/introduction' },
-		{ text: 'Page 2', link: 'en/page-2' },
-		{ text: 'Page 3', link: 'en/page-3' },
+  en: [
+    { text: '', header: true },
 
-		{ text: 'Another Section', header: true },
-		{ text: 'Page 4', link: 'en/page-4' },
-	],
+    { text: 'Introduction', header: true },
+    { text: 'Site Overview', link: 'en/introduction' },
+    { text: 'Summary', link: 'en/page-2' },
+
+    { text: 'What We Do', header: true },
+    { text: 'Section 1: The Web3 Opportunity', link: 'en/introduction' },
+    { text: 'Section 2: Future of Global Capital Markets', link: 'en/page-2' },
+    { text: 'Section 3: What is Catalyzed Capital?', link: 'en/page-3' },
+    { text: 'Section 4: Catalzyed Return Fund Terms ' },
+
+    { text: 'Additional Resources', header: true },
+    { text: 'More Resources', link: 'en/page-4' },
+  ],
 };
