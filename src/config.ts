@@ -6,9 +6,8 @@ export const SITE = {
 
 export const OPEN_GRAPH = {
   image: {
-    src: 'https://github.com/withastro/astro/blob/main/assets/social/banner.jpg?raw=true',
-    alt:
-      'Catalyzed Capital Logo',
+    src: 'https://github.com/sgcatalyzed/Catalyzed-Capital-Docs/blob/master/Catalyzed%20Capital%20Logo%20Transparent.001.png',
+    alt: 'Catalyzed Capital Logo',
   },
 };
 
