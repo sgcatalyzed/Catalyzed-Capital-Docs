@@ -4,7 +4,7 @@ description: Intro to Catalyzed Capital
 layout: ../../layouts/MainLayout.astro
 ---
 
-**Welcome to Catalyzed Capital: A Web3 Fund for the Real World**
+<h3>Catalyzed Capital: A Web3 Fund for the Real World</h3>
 
 This site provides an overview of what we do, who we are, and why we invest.
 
