@@ -37,15 +37,15 @@ export const SIDEBAR = {
 
     { text: 'Introduction', header: true },
     { text: 'Site Overview', link: 'en/introduction' },
-    { text: 'Summary', link: 'en/page-2' },
+    { text: 'Summary', link: 'en/summary' },
 
     { text: 'What We Do', header: true },
-    { text: 'Section 1: The Web3 Opportunity', link: 'en/introduction' },
+    { text: 'Section 1: The Web3 Opportunity', link: 'en/page-1' },
     { text: 'Section 2: Future of Global Capital Markets', link: 'en/page-2' },
     { text: 'Section 3: What is Catalyzed Capital?', link: 'en/page-3' },
-    { text: 'Section 4: Catalzyed Return Fund Terms ' },
+    { text: 'Section 4: Catalzyed Return Fund Terms ', link: 'en/page-4' },
 
     { text: 'Additional Resources', header: true },
-    { text: 'More Resources', link: 'en/page-4' },
+    { text: 'More Resources', link: 'en/page-5' },
   ],
 };
